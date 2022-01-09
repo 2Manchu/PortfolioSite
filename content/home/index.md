@@ -1,5 +1,5 @@
 ---
-title: "Hi, I'm Anthony Manschula"
+title: "Hi, I'm Anthony"
 draft: false
 headless: true
 weight: 0
