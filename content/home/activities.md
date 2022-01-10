@@ -1,8 +1,8 @@
 ---
-title: "Activities"
+title: "Activities & Involvement"
 draft: false
 image: "activities.jpg"
-weight: 3
+weight: 4
 ---
 
 
