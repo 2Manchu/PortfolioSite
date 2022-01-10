@@ -14,10 +14,10 @@ weight: 4
 	working in a fast-paced collaborative environment.
 	
 <font size=5><strong>Freshmen Leaders in Engineering</strong> | <em>Aug 2020 - Apr 2021</em></font><br>
-	ISU Freshmen Leaders in Engineering is an organization that aims to serve as a method of outreach to current and incoming freshmen regarding
-	events and involvement at Iowa State. While we were very restricted in terms of activites as a result of the COVID pandemic, during my time as a
-	member of this group, we planned and executed a fundraiser for the ISU food pantry, and also utilized 360-degree video capture technology to
-	create orientation videos for prospective international students.
+	ISU Freshmen Leaders in Engineering (bottom left image) is an organization that aims to serve as a method of outreach to current and incoming 
+	freshmen regarding events and involvement at Iowa State. While we were very restricted in terms of activites as a result of the COVID pandemic, 
+	during my time as a member of this group, we planned and executed a fundraiser for the ISU food pantry, and also utilized 360-degree video capture
+	technology to create orientation videos for prospective international students.
 	
 <font size=5><strong>WNHS ACES Academic Team</strong> | <em>Jan 2018 - May 2020</em></font><br>
 	I was involved in my high school's engineering and science academics team from my sophomore year to the end of my senior year. Every member was responsible for studying two
