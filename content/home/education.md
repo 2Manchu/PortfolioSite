@@ -12,6 +12,7 @@ weight: 2
 
 <p style="text-align:left">
 	<font size=6><strong>Woodstock North High School</strong></font><br>
-	<font size=5>Graduated with Honors Spring 2020</font>
+	<font size=5>Graduated with Honors Spring 2020</font><br>
+	<font size=4>Academic Challenge Team and VEX Robotics member, McHenry County Honor Band participant, and Varsity Band Section Leader</font>
 </p>
 
