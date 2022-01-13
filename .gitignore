@@ -4,3 +4,7 @@
 content/home/Snapchat-979039262-edited.jpg
 content/home/engine.jpeg
 content/home/car_front.jpeg
+node_modules/.bin/postcss
+node_modules/.bin/nanoid
+node_modules/.bin/browserslist
+node_modules/.bin/autoprefixer
