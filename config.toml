@@ -11,7 +11,7 @@ DefaultContentLanguage           = "en"                    # Default language fo
     fadeIn                       = false                   # Turn on/off the fade-in effect
     fadeInIndex                  = true                    # Turn on/off the fade-in effect on the index page even if fade-in was otherwise turned off
     dateFormat                   = "Jan 2, 2006"
-    # email                        = "youremail@email.com"   # E-mail address for contact section
+    email                        = "placeholder_so_hardcoded_email_works"                      # E-mail address for contact section
     # customCSS                  = ["foo.css"]             # Include custom css files placed under assets/
     # customJS                   = ["foo.js"]              # Include custom JavaScript files placed under assets/
     # plausible                  = true                    # Use Plausible analytics (requires an account at Plausible.io)
@@ -61,10 +61,10 @@ DefaultContentLanguage           = "en"                    # Default language fo
         url   = "https://github.com/2Manchu/"
         icon  = "github" # icon name without the 'fa-'
         icon_pack = "fab"
-    #[[params.social]]
-    #    url = "mailto:youremail@email.com"  # For a direct email link, use "mailto:test@example.org".
-    #    icon = "paper-plane" # icon name without the 'fa-'
-    #    icon_pack = "fas"
+    [[params.social]]
+        url = "/#contact"  # For a direct email link, use "mailto:test@example.org".
+        icon = "paper-plane" # icon name without the 'fa-'
+        icon_pack = "fas"
 
 # If you don't want to use the default menu, you can define one by yourself
  [[menu.main]]
