@@ -12,7 +12,8 @@ weight: 4
 	Members must closely adhere to the guidelines set by the team's technical director, as well as the regulations imposed by Formula SAE's organizers in order to design a car that is competition-legal.
 
 <font size=4><strong>FSAE Lead Tuning and Systems Engineer</strong> | <em>May 2022 - Present</em></font><br>
-	For the 2022 school year, I was elected to lead the vehicle systems and tuning aspects of the car. This includes designing and maintaining
+	For the 2022 school year, I was elected to lead the vehicle systems and tuning aspects of the car. This role involves designing and maintaining a complete electrical system for the car, including charging, power distribution,
+	and wiring. I am also responsible for performing engine calibration, which relies on data analysis to ensure that we are extracting maximum power from the engine while remaining within safe operating limits.
 	Being a part of this team has provided me with valuable exposure to engineering principles, and experience working in a fast-paced collaborative environment.
 
 <img src="flie.jpg" width="500"/>
