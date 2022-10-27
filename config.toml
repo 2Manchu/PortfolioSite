@@ -120,4 +120,4 @@ DefaultContentLanguage           = "en"                    # Default language fo
         title            = "Hi, I'm Anthony"
         [languages.en.params]
             description  = "Anthony Manschula's personal website and portfolio"   # Max 160 characters show in search results
-            footerText   = "<font size=2> This site uses the [Introduction](https://themes.gohugo.io/themes/hugo-theme-introduction/) theme for [Hugo](https://www.gohugo.io/).</font>"                      # Text to override default footer text (markdown allowed)
+            footerText   = "<font size=1> Current Western Digital Cruzin' Cooler speed record holder ;)</font>"                      # Text to override default footer text (markdown allowed)
