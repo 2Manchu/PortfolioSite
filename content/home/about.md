@@ -5,8 +5,8 @@ draft: false
 weight: 1
 ---
 
-Hi, I'm Anthony Manschula. I'm currently a junior studying Computer Engineering, with a focus on VLSI Design, at Iowa State University. At the moment, I'm working on a co-op at Western Digital, where I am a part of the HDD CPU team. When classes are in session, I work as an IT Technician supporting the College of Liberal Arts and Sciences, and I also participate in the Formula SAE team we have on campus.
+Hi, I'm Anthony Manschula. I'm currently a junior studying Computer Engineering, with a focus on VLSI Design, at Iowa State University, and I have experience as a co-op at Western Digital, where I was as a part of the HDD CPU team. When classes are in session, I work as an IT Technician supporting the College of Liberal Arts and Sciences, and I also participate in the Formula SAE team we have on campus.
 
-I am comfortable with object-oriented programming languages such as Java, as well as Linux environments and Bash scripting. Through my classes and work experience, I also have knowledge of PLD design software, Verilog/SystemVerilog, UVM, and ARM AXI and AHB protocols.
+Through my classes and work experience, I have knowledge of Verilog/SystemVerilog hardware description languages, UVM, and ARM AMBA protocols. I have worked closely with verification environments incorporating ARM Cortex R8 and M0+ CPUs, and collaborated with verification engineers to write functional and code coverage in order to close testbench milestones. I am also familiar with other object-oriented languages, such as Java.
 
 I have had the opportunity for leadership both in high school, as section leader in the band, and at ISU, with my involvement in the Formula SAE team, as well as Freshmen Leaders in Engineering. All of these experiences have allowed me to leverage my communication skills, and pushed my development as a person.
