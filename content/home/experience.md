@@ -10,9 +10,10 @@ weight: 3
 	<font size=4>Through working at Western Digital, I was able to greatly strengthen my understanding of SystemVerilog. In addition, I gained knowledge on a number of critical subjects,
 	including Universal Verification Methodology (UVM), ARM AMBA protocols, and improved my comprehension of object-oriented concepts. Among some other projects, I mainly created and debugged SV/UVM testbench components that allowed further
 	verification of the current SoC revision. I developed system arbitration UVM performance
-	tests that allowed for extraction and analysis of performance and latency data when communicating from each CPU core to other regions of the SoC, and applied knowledge of AMBA protocols
+	tests that allowed for extraction and analysis of performance and latency data for various CPU datapaths, and applied knowledge of AMBA protocols
 	to create UVM scoreboard setups for several other design components. I also developed a unit-simulation for a critical piece of DRAM datapath IP, which involved creating a SystemVerilog testbench for the IP, as well as an accompanying suite
-	of tests to hit corner-cases not generally seen in the top-level environment. As a whole, my experience at Western Digital has significantly improved my understanding of CPU subsystems on embedded hardware.</font>
+	of tests to hit corner-cases not generally seen in the top-level environment.  In addition, I wrote functional and code coverage in order to close on testbench milestones, and I worked with a subset of the testbench that allowed for firmware-like C-code to be loaded and tested on the design.
+	As a whole, my experience at Western Digital has significantly improved my understanding of CPU subsystems on embedded hardware.</font>
 </p>
 
 <p style="text-align:left">
