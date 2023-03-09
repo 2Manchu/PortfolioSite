@@ -83,10 +83,14 @@ DefaultContentLanguage           = "en"                    # Default language fo
      name    = "Activities & Involvement"
      url     = "/#activities"
      weight  = 4
+[[menu.main]]
+     name    = "Projects"
+     url     = "/#projects"
+     weight  = 5
  [[menu.main]]
      name    = "Get in Contact"
      url     = "/#contact"
-     weight  = 5
+     weight  = 100
      
 # We only use tag as a taxonomies
 # You can add more by yourself
