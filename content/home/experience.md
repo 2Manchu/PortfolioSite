@@ -35,3 +35,7 @@ weight: 2
 	<font size=4>Sales Associates at The Home Depot leverage store and product knowledge, a helpful disposition, and effective communication skills to
 	satisfy customers' needs and drive sales.</font>
 </p>
+
+<p style="text-align:left">
+	<font size = 5> If you wish to download a full copy of my resume, it can be found <a href="https://iowastate-my.sharepoint.com/:b:/g/personal/tonyman2_iastate_edu/EeoPrLkzEM5DuRF0bMSNNUoB_GqFX7FB8cVLQ45iEyEcuA?e=Ust4kK">here.</a></font>
+</p>
