@@ -1,4 +1,4 @@
-
+*.DS_Store
 .hugo_build.lock
 *.xcf
 content/home/Snapchat-979039262-edited.jpg
