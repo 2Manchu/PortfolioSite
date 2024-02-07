@@ -23,7 +23,7 @@ weight: 2
 
 <p style="text-align:left">
 	<font size=6><strong>Iowa State University</strong> Ames, Iowa</font><br>
-	<font size=5><strong>College of LAS - IT Support</strong> | <em>August 2020 - May 2022, January 2023 - May 2023</em></font><br>
+	<font size=5><strong>Level 1 IT Support</strong> | <em>August 2020 - May 2022, January 2023 - May 2023</em></font><br>
 	<font size=4>As IT support for the LAS College, technicians are expected to utilize an enthusiastic, yet professional personality in order to
 	provide a positive experience for professors and students. We deployed and provided support for classroom and office equipment located within our
 	building, as well as remote and on-site support for software and hardware issues via the Service-Now ticket system.</font>
@@ -34,4 +34,8 @@ weight: 2
 	<font size=5><strong>Sales Associate</strong> | <em>May 2021 - August 2021</em></font><br>
 	<font size=4>Sales Associates at The Home Depot leverage store and product knowledge, a helpful disposition, and effective communication skills to
 	satisfy customers' needs and drive sales.</font>
+</p>
+
+<p style="text-align:left">
+	<font size = 5> If you wish to download a full copy of my resume, it can be found <a href="https://iowastate-my.sharepoint.com/:b:/g/personal/tonyman2_iastate_edu/EeoPrLkzEM5DuRF0bMSNNUoB_GqFX7FB8cVLQ45iEyEcuA?e=Ust4kK">here.</a></font>
 </p>

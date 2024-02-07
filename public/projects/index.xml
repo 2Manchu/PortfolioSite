@@ -8,12 +8,31 @@
     <language>en-us</language>
     <lastBuildDate>Thu, 09 Mar 2023 10:27:58 -0600</lastBuildDate><atom:link href="https://manschula.dev/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Multicore Operational Analysis Tooling</title>
+      <link>https://manschula.dev/projects/seniord/</link>
+      <pubDate>Wed, 07 Feb 2024 10:15:15 -0600</pubDate>
+      
+      <guid>https://manschula.dev/projects/seniord/</guid>
+      <description>Iowa State CPRE senior design project, with Boeing as the client.
+The aviation industry is adopting multicore systems to handle the demands of modern aviation technology. However, these systems can face interference issues that affect their performance, including the worst-case execution time for safety-critical tasks. To ensure the safety of avionics software, it&amp;rsquo;s essential to examine and verify how interference impacts these systems. To address this, hardware and software providers are offering advanced partitioning technologies, allowing developers to allocate system resources effectively and minimize interference between applications running on separate processor cores.</description>
+    </item>
+    
+    <item>
       <title>CPRE 381: VHDL Processor Design</title>
       <link>https://manschula.dev/projects/cpre381/</link>
       <pubDate>Sat, 21 Jan 2023 10:33:47 -0600</pubDate>
       
       <guid>https://manschula.dev/projects/cpre381/</guid>
-      <description>CPRE 381: Computer Organization and Assembly Level Programming. This project as a whole spanned several months, from February until the end of the semester, with the overall goal of designing several processors around the MIPS ISA with the final goal of comparing their performance. It relied heavily on applying concepts from class, including VHDL skills, piplining, hazard avoidance, and general knowledge of digital logic and the MIPS ISA. All designs included in the below repository implement the core MIPS ISA, and will run an arbitrary MIPS assembly program (examples included).</description>
+      <description>CPRE 381: Computer Organization and Assembly Level Programming. This project as a whole spanned several months, from February until the end of the semester, with the overall goal of designing several processors around the MIPS ISA with the final goal of comparing their performance. It relied heavily on applying concepts from class, including VHDL skills, piplining, hazard avoidance, and general knowledge of digital logic and the MIPS ISA. This project was completed in a team of two, with both members utilizing Git for version control.</description>
+    </item>
+    
+    <item>
+      <title>Cyclone Racing CR-27</title>
+      <link>https://manschula.dev/projects/cr27/</link>
+      <pubDate>Mon, 22 Jan 2024 08:18:29 -0600</pubDate>
+      
+      <guid>https://manschula.dev/projects/cr27/</guid>
+      <description>Cyclone Racing Formula SAE Team. This car was designed and built for the 2023 Formula SAE North America competition. As this was my first year being the lead engineer for vehicle systems and tuning, it was quite a learning experience. While I was able to leverage some existing skills from the CR-26 car, considerable thought and planning was necessary to integrate all of the components in my system together in an effective and logical manner.</description>
     </item>
     
     <item>
