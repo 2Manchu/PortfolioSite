@@ -1,7 +1,7 @@
 ---
 title: "CPRE 381: VHDL Processor Design" # Title of your project
 date: 2023-01-21T10:33:47-06:00
-weight: 1 # Order in which to show this project on the home page
+weight: 2 # Order in which to show this project on the home page
 external_link: "" # Optional external link instead of modal
 resources:
   - src: "mips-risc.jpg"

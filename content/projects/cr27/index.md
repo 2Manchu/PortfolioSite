@@ -1,7 +1,7 @@
 ---
 title: "Cyclone Racing CR-27" # Title of your project
 date: 2024-01-22T08:18:29-06:00
-weight: 2 # Order in which to show this project on the home page
+weight: 3 # Order in which to show this project on the home page
 external_link: "" # Optional external link instead of modal
 resources:
     - src: cr27.jpg
