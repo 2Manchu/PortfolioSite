@@ -1,6 +1,6 @@
 ---
 title: "About Me"
-image: "portrait.jpg"
+image: "IMG_3298.jpeg"
 draft: false
 weight: 1
 ---

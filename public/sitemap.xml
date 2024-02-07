@@ -2,14 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://manschula.dev/projects/</loc>
-    <lastmod>2023-03-09T10:27:58-06:00</lastmod>
+    <loc>https://manschula.dev/projects/seniord/</loc>
+    <lastmod>2024-02-07T10:15:15-06:00</lastmod>
   </url><url>
     <loc>https://manschula.dev/projects/cpre381/</loc>
     <lastmod>2023-01-21T10:33:47-06:00</lastmod>
   </url><url>
-    <loc>https://manschula.dev/</loc>
+    <loc>https://manschula.dev/projects/cr27/</loc>
+    <lastmod>2024-01-22T08:18:29-06:00</lastmod>
+  </url><url>
+    <loc>https://manschula.dev/projects/</loc>
     <lastmod>2023-03-09T10:27:58-06:00</lastmod>
+  </url><url>
+    <loc>https://manschula.dev/</loc>
+    <lastmod>2024-02-07T10:15:15-06:00</lastmod>
   </url><url>
     <loc>https://manschula.dev/projects/cr26/</loc>
     <lastmod>2022-05-09T11:20:56-06:00</lastmod>

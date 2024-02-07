@@ -23,7 +23,7 @@ weight: 2
 
 <p style="text-align:left">
 	<font size=6><strong>Iowa State University</strong> Ames, Iowa</font><br>
-	<font size=5><strong>College of LAS - IT Support</strong> | <em>August 2020 - May 2022, January 2023 - May 2023</em></font><br>
+	<font size=5><strong>Level 1 IT Support</strong> | <em>August 2020 - May 2022, January 2023 - May 2023</em></font><br>
 	<font size=4>As IT support for the LAS College, technicians are expected to utilize an enthusiastic, yet professional personality in order to
 	provide a positive experience for professors and students. We deployed and provided support for classroom and office equipment located within our
 	building, as well as remote and on-site support for software and hardware issues via the Service-Now ticket system.</font>
