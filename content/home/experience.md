@@ -5,6 +5,10 @@ weight: 2
 ---
 
 <p style="text-align:left">
+	<font size = 5> If you wish to download a full, up-to-date copy of my resume, it can be found <a href="https://iowastate-my.sharepoint.com/:b:/g/personal/tonyman2_iastate_edu/ETBrOh0veyxBgnLzE6t0GMoBNf7QfEZX1u7JgKQyz3sqqQ?e=LOgPNe">here.</a></font>
+</p>
+
+<p style="text-align:left">
 	<font size=6><strong>Western Digital</strong> Rochester, Minnesota</font><br>
 	<font size=5><strong>HDD SoC Development Engineer Intern</strong> | <em>May 2023 - August 2023</em></font><br>
 	<font size=4>This was my second experience at Western Digital, returning to the CPU team for the summer of 2023. Again, my primary responsibilites were targeted at creating and debugging UVM testbench components to verify design features, and as such, I continued to hone my knowledge of SystemVerilog and UVM. 
@@ -36,6 +40,4 @@ weight: 2
 	satisfy customers' needs and drive sales.</font>
 </p>
 
-<p style="text-align:left">
-	<font size = 5> If you wish to download a full copy of my resume, it can be found <a href="https://iowastate-my.sharepoint.com/:b:/g/personal/tonyman2_iastate_edu/EeoPrLkzEM5DuRF0bMSNNUoB_GqFX7FB8cVLQ45iEyEcuA?e=Ust4kK">here.</a></font>
-</p>
+
