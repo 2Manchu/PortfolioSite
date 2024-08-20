@@ -7,14 +7,14 @@ weight: 4
 
 <img src="cr-pic.jpg" width="1000"/>
 
-<font size=5><strong>Cyclone Racing Formula SAE Team, Powertrain</strong> | <em>August 2021 - Present</em></font><br>
+<font size=5><strong>Cyclone Racing Formula SAE Team, Powertrain</strong> | <em>August 2021 - May 2024</em></font><br>
 	The Cyclone Racing Formula SAE Team is a student-run organization whose goal is to create a Formula-style race car that can be entered into yearly competitions held by SAE International.
 	Members must closely adhere to the guidelines set by the team's technical director, as well as the regulations imposed by Formula SAE's organizers in order to design a car that is competition-legal (Left: CR-26, Right: CR-27).
 
-<font size=4><strong>FSAE Lead Tuning and Systems Engineer</strong> | <em>May 2022 - Present</em></font><br>
-	For the 2022 and 2023 school year, I was elected to lead the development of the vehicle systems and tuning aspects of the car. This role involves designing and maintaining a complete electrical system for the car, including charging, power distribution,
-	and wiring. I am also responsible for performing engine calibration, which relies on data analysis to ensure that we are extracting maximum power from the engine while remaining within safe operating limits.
-	Being a part of this team has provided me with valuable exposure to engineering principles, and experience working in a fast-paced collaborative environment.
+<font size=4><strong>FSAE Lead Tuning and Systems Engineer</strong> | <em>May 2022 - May 2024</em></font><br>
+	For the 2022 and 2023 school year, I was elected to lead the development of the vehicle systems and tuning aspects of the car. This role involved designing and maintaining a complete electrical system for the car, including charging, power distribution,
+	and wiring. I was also responsible for performing engine calibration, which relied on data analysis to ensure that we were extracting maximum power from the engine while remaining within safe operating limits.
+	Being a part of this team provided me with valuable exposure to engineering principles, and experience working in a fast-paced collaborative environment.
 
 <img src="flie.jpg" width="500"/>
 

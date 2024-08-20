@@ -7,7 +7,7 @@ weight: 3
 <p style="text-align:left">
 	<font size=6><strong>Iowa State University</strong></font><br>
 	<font size=5><strong>B.S. Computer Engineering | Expected Graduation Fall 2024</strong></font><br>
-	<font size=4>College of Engineering Dean's List: Fall 2020, Spring/Fall 2021, Spring 2022, Spring/Fall 2023</font>
+	<font size=4>College of Engineering Dean's List: Fall 2020, Spring/Fall 2021, Spring 2022, Spring/Fall 2023, Spring 2024</font>
 </p>
 
 <p style="text-align:left">
