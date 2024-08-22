@@ -17,7 +17,7 @@ weight: 2
 <p style="text-align:left">
 	<font size=6><strong>Western Digital</strong> Rochester, Minnesota</font><br>
 	<font size=5><strong>HDD SoC Development Engineer Intern</strong> | <em>May 2023 - August 2023</em></font><br>
-	<font size=4>This was my second experience at Western Digital, returning to the CPU team for the summer of 2023. Again, my primary responsibilites were targeted at creating and debugging UVM testbench components to verify design features, and as such, I continued to hone my knowledge of SystemVerilog and UVM. 
+	<font size=4>This was my second experience at Western Digital, returning to the CPU team for the summer of 2023. Again, my primary responsibilities were targeted at creating and debugging UVM testbench components to verify design features, and as such, I continued to hone my knowledge of SystemVerilog and UVM. 
 	During my 3-month stint, I was focused primarily on the CPU DRAM datapath, as there were several new hardware features for the latest SoC revision that needed to be verified. 
 	This time around, I was much more involved in digging deeper into the RTL to find design issues, as I had pre-existing knowledge of the design and how it worked, and also because I was able to apply waveform analysis skills I'd learned in my processor architecture class in the spring. 
 	As a side effect of working on the CPU DRAM datapath, I also learned about CPU memory virtualization and some of its workings and benefits from both a hardware implementation and a software architecture perspective. 
