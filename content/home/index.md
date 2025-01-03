@@ -5,4 +5,6 @@ headless: true
 weight: 0
 ---
 
-4th-year Computer Engineering major with digital design and verification experience at Infineon Technologies and Western Digital
+Design Verification Engineer @ ForwardEdge ASIC 
+
+B.S. Computer Engineering

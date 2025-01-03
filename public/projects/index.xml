@@ -6,52 +6,50 @@
     <description>Recent content in Projects on Hi, I&#39;m Anthony</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 09 Mar 2023 10:27:58 -0600</lastBuildDate><atom:link href="https://manschula.dev/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 09 Mar 2023 10:27:58 -0600</lastBuildDate>
+    <atom:link href="https://manschula.dev/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Multicore Operational Analysis Tooling</title>
       <link>https://manschula.dev/projects/seniord/</link>
       <pubDate>Wed, 07 Feb 2024 10:15:15 -0600</pubDate>
-      
       <guid>https://manschula.dev/projects/seniord/</guid>
       <description>Iowa State CPRE senior design project, with Boeing as the client.
-The aviation industry is adopting multicore systems to handle the demands of modern aviation technology. However, these systems can face interference issues that affect their performance, including the worst-case execution time for safety-critical tasks. To ensure the safety of avionics software, it&amp;rsquo;s essential to examine and verify how interference impacts these systems. To address this, hardware and software providers are offering advanced partitioning technologies, allowing developers to allocate system resources effectively and minimize interference between applications running on separate processor cores.</description>
+The increasing computational demand of modern avionics programs necessitates higher performance hardware platforms to support them. Among the various avenues that exist, one approach to achieving higher application performance is to utilize a multicore system. However, incorporating such systems into safety-critical applications like avionics presents a unique set of challenges when it comes to their airworthiness certification. The equipment manufacturer must be able to prove that the system is resilient to performance degradation due to shared resource “crosstalk” (also known as resource contention) from applications running on the platform’s processor cores.</description>
     </item>
-    
+    <item>
+      <title>Computational Storage for Data Integrity and Security (MSST &#39;24)</title>
+      <link>https://manschula.dev/projects/msst/</link>
+      <pubDate>Tue, 06 Feb 2024 10:15:15 -0600</pubDate>
+      <guid>https://manschula.dev/projects/msst/</guid>
+      <description>Research project undertaken by myself and a Computer Engineering Ph.D student for an advanced data storage systems class. The goal of this project is to research and analyze the viability of using computational storage devices for accelerating tasks common to data integrity and ransomware protection schemes. We have identified research gaps in erasure coding and data security tasks and their applicability to computational storage devices and developed a proof-of-concept library (CSDGuard) using C++ and OpenCL that implemented I/O operations, computations, and performance measurement utilities common to those tasks.</description>
+    </item>
     <item>
       <title>CPRE 381: VHDL Processor Design</title>
       <link>https://manschula.dev/projects/cpre381/</link>
       <pubDate>Sat, 21 Jan 2023 10:33:47 -0600</pubDate>
-      
       <guid>https://manschula.dev/projects/cpre381/</guid>
       <description>CPRE 381: Computer Organization and Assembly Level Programming. This project as a whole spanned several months, from February until the end of the semester, with the overall goal of designing several processors around the MIPS ISA with the final goal of comparing their performance. It relied heavily on applying concepts from class, including VHDL skills, piplining, hazard avoidance, and general knowledge of digital logic and the MIPS ISA. This project was completed in a team of two, with both members utilizing Git for version control.</description>
     </item>
-    
     <item>
       <title>Cyclone Racing CR-27</title>
       <link>https://manschula.dev/projects/cr27/</link>
       <pubDate>Mon, 22 Jan 2024 08:18:29 -0600</pubDate>
-      
       <guid>https://manschula.dev/projects/cr27/</guid>
       <description>Cyclone Racing Formula SAE Team. This car was designed and built for the 2023 Formula SAE North America competition. As this was my first year being the lead engineer for vehicle systems and tuning, it was quite a learning experience. While I was able to leverage some existing skills from the CR-26 car, considerable thought and planning was necessary to integrate all of the components in my system together in an effective and logical manner.</description>
     </item>
-    
     <item>
       <title>Cyclone Racing CR-26</title>
       <link>https://manschula.dev/projects/cr26/</link>
       <pubDate>Mon, 09 May 2022 11:20:56 -0600</pubDate>
-      
       <guid>https://manschula.dev/projects/cr26/</guid>
       <description>Cyclone Racing Formula SAE Team. As mentioned in the above section, I am a member of ISU&amp;rsquo;s FSAE team, and I have been involved with the Powertrain subsystem since August 2021. CR-26 is the car that we designed and built for the 2021-2022 school year, and although I was still a new member at the time, I contributed to several key areas within the Powertrain subsystem, including designing an updated wiring diagram for the car, and assisting with wiring and engine calibration.</description>
     </item>
-    
     <item>
       <title>CPRE 288: Embedded Systems I</title>
       <link>https://manschula.dev/projects/cpre288/</link>
       <pubDate>Sun, 09 Jan 2022 10:33:47 -0600</pubDate>
-      
       <guid>https://manschula.dev/projects/cpre288/</guid>
       <description>CPRE 288: Embedded Systems I. The overall goal of this project was to develop code that would allow the group to navigate the vehicle (an iRobot Create 2) through a course entirely using onboard sensors, without the vehicle being directly visible to the group. As a whole, I learned a great deal about embedded systems and how they can be used to aggregate and process data from a variety of digital and analog sensors.</description>
     </item>
-    
   </channel>
 </rss>

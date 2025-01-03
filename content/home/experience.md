@@ -9,6 +9,12 @@ weight: 2
 </p>
 
 <p style="text-align:left">
+	<font size=6><strong>ForwardEdge ASIC</strong> St. Paul, Minnesota</font><br>
+	<font size=5><strong>ASIC Design Verification Engineer</strong> | <em>January 2025 - Present</em></font><br>
+	<font size=4>After graduating, I joined ForwardEdge ASIC in a full-time pre-silicon verification role.</font><br>
+</p>
+
+<p style="text-align:left">
 	<font size=6><strong>Infineon Technologies IR HiRel</strong> Andover, Massachusetts</font><br>
 	<font size=5><strong>IC Verification Intern</strong> | <em>May 2024 - August 2024</em></font><br>
 	<font size=4>My summer internship with Infineon introduced me to analog verification. Referencing the IC verification plan, I utilized Cadence Virtuoso to create top-level testbench schematics with the appropriate variables that would allow me to test the verification objective. I also had to collaborate closely with other verification engineers on the team to ensure consistency across various testbench parameters (process corners, temperatures, supply voltages, etc.) and test methodology. This was critical for obtaining accurate data during regression runs, which in turn was essential for discovering and fixing design issues that could introduce project delays. Following that project, I moved over to the digital environment to overhaul verification infrastructure for the error correction (SECDED) block, designing a parameterized SystemVerilog testbench and set of helper utilities that allowed for quick and effective testing of potential changes to the IP. I was also able to utilize my knowledge of error correction to make significant improvements to the existing SECDED validation framework in preparation for samples of the latest tapeout.</font><br>
@@ -33,7 +39,7 @@ weight: 2
 
 <p style="text-align:left">
 	<font size=6><strong>Iowa State University</strong> Ames, Iowa</font><br>
-	<font size=5><strong>Level 1 IT Support</strong> | <em>August 2020 - May 2022, January 2023 - May 2024</em></font><br>
+	<font size=5><strong>Level 1 IT Support</strong> | <em>August 2020 - May 2022, January 2023 - December 2024</em></font><br>
 	<font size=4>As IT support for the LAS College, technicians are expected to utilize an enthusiastic, yet professional personality in order to
 	provide a positive experience for professors and students. We deployed and provided support for classroom and office equipment located within our
 	building, as well as remote and on-site support for software and hardware issues via the Service-Now ticket system.</font>
